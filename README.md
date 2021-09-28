@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dushyant-verma-cs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dushyant-verma-cs19" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dushyant-verma-cs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dushyant-verma-cs19" height="30" width="40" /></a>
 <a href="https://medium.com/@prafulverma006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prafulverma006" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dushyant_verma_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dushyant_verma_1" height="30" width="40" /></a>
 <a href="/https://blogsbydushyant.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blogsbydushyant.blogspot.com/" height="30" width="40" /></a>
