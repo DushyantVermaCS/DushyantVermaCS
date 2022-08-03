@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Programmer 😊</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8a/f4/fe/8af4febc154ad406079ce04b7e9f70ee.gif">
 
-- 🔭 I’m currently working on **Python/Django**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate with **Computer Science geeks & Open Source**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blogsbydushyant.blogspot.com/](https://blogsbydushyant.blogspot.com/)
 
-- 💬 Ask me about **Java, Python, Data Structures and Algorithms, Web Development**
+- 💬 Ask me about **Java, Python, Data Structures and Algorithms, Android Development**
 
 - 📫 How to reach me **dushyantverma.cs@gmail.com**
 
